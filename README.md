@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on UIU ROBOTIES
 - 📫 reach me shubranshupodderarpan112@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: explore new place
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Explore New Place
 
 <!---
 shubranshu-arpan/shubranshu-arpan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
